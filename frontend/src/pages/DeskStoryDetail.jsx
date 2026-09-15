@@ -9,7 +9,6 @@ import { displayText } from '../lib/displayText';
 import { renderRichText } from '../lib/richText';
 import PdfPreviewModal from '../components/pdf/PdfPreviewModal';
 import './StoryDetail.css';
-
 function PhotoGrid({ images, altFallback }) {
   const list = (images || []).filter((img) => img?.url);
   if (!list.length) return null;

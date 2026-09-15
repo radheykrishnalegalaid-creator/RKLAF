@@ -41,7 +41,7 @@ const offices = [
   {
     id: 'delhi',
     title: 'Head Office - New Delhi',
-    address: 'B-5/152, Basement, Safdarjung Enclave, New Delhi – 110029',
+    address: 'B-5/152, Safdarjung Enclave, New Delhi – 110029',
     mapsUrl: OFFICE_DELHI.mapsUrl,
   },
   {

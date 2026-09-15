@@ -39,11 +39,11 @@ export const OFFICE_DELHI = {
   title: 'Head office',
   city: 'Delhi',
   lines: [
-    'B-5/152, Basement, Safdarjung Enclave',
+    'B-5/152, Safdarjung Enclave',
     'Near Centre for Sight Hospital',
     'New Delhi-110029',
   ],
-  short: 'B-5/152, Basement, Safdarjung Enclave, New Delhi-110029',
+  short: 'B-5/152, Safdarjung Enclave, New Delhi-110029',
   mapsUrl: 'https://www.google.com/maps?q=28.561718,77.191261',
   mapsEmbed: 'https://maps.google.com/maps?q=28.561718,77.191261&z=16&output=embed',
 };
